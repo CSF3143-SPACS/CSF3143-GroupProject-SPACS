@@ -12,3 +12,6 @@ Aliran utama sistem (terima parcel -> log masuk -> jana QR -> imbas & ambil).
 
 Peranan & Ahli: Gambar & biografi ringkas 4 ahli kumpulan (Ahli 1 - Ahli 4).
 Aktiviti GitHub: Tangkapan skrin (screenshot) / bukti setup GitHub repository, task board, dan pengagihan tugasan ahli.
+
+- Jana statistik harian/bulanan , jumlah parcel masuk/keluar , waktu puncak (peak hours) pengambilan parcel , senarai parcel tidak dituntut dan penilaian prestasi staff
+- Susun jadual NFR mengikut aspek keselamatan data pelajar, kelajuan imbasan barcode , system uptime dan usability paparan antaramuka
